@@ -1,0 +1,77 @@
+
+## Dictionary
+questions = {
+    1: "Wat is je leeftijd?",
+    2: "Wat is je geslacht?",
+    3: "Welk opleidingsniveau doe je?",
+    4: "Als ik iemand voor het eerst ontmoet, ben ik gespannen.",
+    5: "Ik vind het vervelend om met mensen te praten die ik niet ken.",
+    6: "Ik heb er geen probleem mee om onbekenden in de ogen te kijken.",
+    7: "In gezelschap van anderen voel ik me ontspannen, ook als ik die mensen niet goed ken.",
+    8: "Ik vraag me vaak af wat anderen van me vinden.",
+    9: "Ik maak me weinig zorgen over de indruk die ik op anderen maak.",
+    10: "Ik denk vaak: Vinden ze me wel leuk?",
+    11: "Ik ben bang dat mensen me saai of stom vinden.",
+    12: "Ik maak me zorgen dat mensen negatief over me denken.",
+    13: "Ik maak me zorgen dat mensen achter mijn rug om over me praten.",
+    14: "Het kan me niet zoveel schelen wat andere mensen van me vinden.",
+    15: "Ik trek me weinig aan van wat anderen van me vinden.",
+    16: "Als andere mensen me niet mogen, is dat hun probleem.",
+    17: "Als iemand kritiek op me heeft, heb ik het gevoel dat ik heb gefaald.",
+    18: "Het kan me niet zoveel schelen wat andere mensen van me vinden.",
+    19: "Het kan me niet zoveel schelen hoe andere mensen over me denken.",
+    20: "Niemand zal me dom vinden als ik slecht presteer.",
+    21: "In het contact met andere mensen voel ik me zelfverzekerd.",
+    22: "Als ik merk dat iemand naar me kijkt, word ik zenuwachtig.",
+    23: "In gezelschap ben ik bang dat ik ga blozen.",
+    24: "Ik bedenk vaak smoesjes om niet naar sociale bijeenkomsten te hoeven.",
+    25: "Als iemand me een complimentje maakt, voel ik me ongemakkelijk.",
+    26: "Ik heb er geen probleem mee om een praatje te houden voor een groep.",
+    27: "Ik vind het geen probleem om in de klas een vraag te stellen.",
+    28: "Als ik het ergens niet mee eens ben, zeg ik dat.",
+    29: "Ik heb er een hekel aan om het middelpunt van de belangstelling te staan.",
+    30: "Ik heb weinig last van studiestress.",
+    31: "Op de dag van een examen vind ik het net zo leuk om naar school te gaan als anders.",
+    32: "De nacht voor een examen of toets slaap ik net zo goed als anders.",
+    33: "Vlak voor een examen ben ik vaak zenuwachtig.",
+    34: "Voor een examen maak ik me weinig zorgen.",
+    35: "Vlak voor een examen voel ik me vaak ziek.",
+    36: "Voor een examen ben ik zó zenuwachtig dat ik hoofdpijn of buikpijn heb of tril.",
+    37: "Tijdens het maken van een examen ben ik bang dat ik het niet kan.",
+    38: "Ik lever opdrachten vaak op het laatste moment in omdat ik bang ben dat ze niet goed genoeg zijn.",
+    39: "Controleer ik, aan het eind van een examen, mijn antwoorden nog een keer, dan raak ik in de war.",
+    40: "Bij examens of proefwerken wil ik het vaak zó goed doen dat ik niet op tijd klaar ben.",
+    41: "Ik lever opdrachten vaak op het laatste moment in omdat ik er maar aan blijf sleutelen.",
+    42: "Ik voel me onder druk staan om te presteren.",
+    43: "Ik ben bang dat, als ik slecht presteer, ik mensen teleurstel.",
+    44: "Als ik een fout maak waar anderen bij zijn, schaam ik me.",
+    45: "Ik ben bang dat anderen me dom vinden als ik slecht presteer.",
+    46: "Als ik slecht presteer, houden anderen nog net zoveel van me als daarvoor.",
+    47: "Fouten maken is niet erg.",
+    48: "Als ik een slecht cijfer haal, vinden mensen mij nog net zo leuk als daarvoor.",
+    49: "Ik maak me weinig zorgen over mijn studie.",
+    50: "Als het gaat om mijn studie, stel ik hoge eisen aan mezelf.",
+    51: "Ik moet van mezelf goede cijfers halen.",
+    52: "Haal ik een slecht cijfer, dan maak ik me zorgen over mijn toekomstplannen.",
+    53: "Ik voel me zelfverzekerd over mijn capaciteiten.",
+    54: "Ik weet zeker dat ik slim genoeg ben om deze studie te doen.",
+    55: "Ik voel me onzeker over mezelf.",
+    56: "Ik denk dat mensen in het algemeen een positief beeld van mij hebben.",
+    57: "In een groep houd ik me op de achtergrond.",
+    58: "Ik wacht meestal tot andere mensen mij aanspreken.",
+    59: "Ik ga liever niet naar sociale bijeenkomsten, zoals feestjes of vergaderingen.",
+    60: "Ook als ik een slecht cijfer haal, voel ik me goed over mezelf", 
+    61: "Als ik een slecht cijfer haal voel ik me waardeloos.", 
+    62: "Als ik een onvoldoende haal, voel ik me dom.", 
+    63: "Ik schaam me voor slechte cijfers.", 
+    64: "Als ik niet goed presteer,kraak ik mezelf af."
+}
+
+
+
+
+
+
+
+
+
