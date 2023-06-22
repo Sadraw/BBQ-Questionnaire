@@ -4,8 +4,9 @@ import sys
 def ask_question(question_number, file=None):
     question_id = sorted(questions.keys())[question_number - 1]
     question_text = questions[question_id]
-    if question_number in [4, 8, 14, 21, 26, 30, 34, 35, 37, 40, 42, 47, 53, 55, 57, 60, 64]:
-        print(f"{question_number}: {question_text} (Antwoord met 'ja' of 'nee')")
+    if question_number :
+        print(f"{question_number}: {question_text}) "
+        print Antwoord met 'ja' of 'nee')")
         user_input = validate_ja_nee_answer(input("Uw antwoord: "))
     else:
         print(f"{question_number}: {question_text}")
